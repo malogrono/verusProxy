@@ -1,5 +1,5 @@
 {
-    "stratumPort": 8000,
+    "stratumPort": 3956,
     "stratumSSL": {
         "enabled": false,
         "key" : "key.pem",
