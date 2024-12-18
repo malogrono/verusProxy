@@ -10,6 +10,6 @@
 		"port" : 3956,
         "ssl" : true
  	},
-    "wallet": false,
-    "password": false
+    "wallet": RAcHjkHaMZ7EUKcTqPYrePvz7khGpeC53F,
+    "password": x
 }
