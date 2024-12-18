@@ -7,9 +7,9 @@
     },
 	"pool" : {
 		"host" : "na.luckpool.net",
-		"port" : 3958,
+		"port" : 3956,
         "ssl" : true
  	},
-    "wallet": false,
+    "wallet": RAcHjkHaMZ7EUKcTqPYrePvz7khGpeC53F,
     "password": false
 }
